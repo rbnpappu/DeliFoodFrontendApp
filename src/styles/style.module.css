@@ -1,0 +1,47 @@
+
+
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+
+.input{
+   
+    border-radius: 25px;
+    margin: 0.5rem;
+    width: 100%;
+    max-width: 200px;
+    padding: 1rem;
+    display: flex;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    content: aliceblue;
+
+}
+
+.inputBox{
+    display: flex;
+    border-radius: 25px;
+    margin: 0.5rem;
+    width: 100%;
+    max-width: 200px;
+    padding: 1rem;
+    display: flex;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    background: wheat;
+
+}
+
+
+.register{
+    background: black;
+
+}
